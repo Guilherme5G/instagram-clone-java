@@ -94,7 +94,7 @@ Se você quer ajudar a evoluir este motor, aqui estão algumas ideias de funcion
 **Guilherme de Araújo Moreira**
 
 * 🎓 Estudante de Engenharia de Software na **FIAP** (2º ano).
-* 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/guilherme-de-ara%C3%B9jo-moreira-7440602b5/)| [E-mail](mailto:guiam2909@gmail.com)
+* 📫 Entre em contato: [LinkedIn](https://www.linkedin.com/in/guilherme-de-ara%C3%B9jo-moreira-7440602b5/)| E-mail: guiam2909@gmail.com
 
 
 Note: Este repositório contém apenas a API (Backend) do projeto. O repositório do Frontend (React) pode ser encontrado #clicando aqui#
